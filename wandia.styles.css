@@ -1,0 +1,66 @@
+.background {
+background-image: url("https://i.pinimg.com/originals/2d/ba/2b/2dba2bf10e5ade0149ca1c3a6491e6a7.gif")
+}
+
+
+h1{
+  font-size:500%;
+  font-family: serif;
+  font-style: italic;
+  text-align: center;
+  font-family: timesnewromans;
+}
+
+h2{
+  font-style:oblique;
+  font-family:serif;
+  color:green;
+  font-size:350%;
+  text-align: center;
+  text-decoration:underline;
+}
+
+.wrapper{
+  background-image: url("https://cdn2.stylecraze.com/wp-content/uploads/2013/09/Does-Swimming-Aid-Weight-Loss-1.jpg");
+  color:red;
+font-weight:bold;
+font-size:large;
+background-blend-mode: lighten;
+}
+
+.column2{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtXazdh6xpEunkaHgFKwqCUPhMmMyx_859DNQfFb_EHLoIZOz2");
+  color:lawngreen;
+  font-weight:bold;
+  font-size:large;
+}
+
+.column3{
+  background-image: url("https://qph.fs.quoracdn.net/main-qimg-3f7528c47843c336f3aceee9a40aab3c-c");
+  font-weight:bold;
+  font-size:large;
+  color:lawngreen;
+  background-blend-mode: lighten;
+}
+
+.h3{
+  font-family:courier;
+  text-decoration:underline;
+}
+
+.homepage{
+  background-image: url("http://cdn.supadupa.me/shop/15195/images/1245518/'This_is_me'_grande.png?1381359079");
+  background-size: 350px;
+  background-repeat: no-repeat;
+
+  background-blend-mode:lighten;
+}
+
+.h3{
+  text-align:right;
+  font-style: oblique;
+  font-family: monospace;
+}
+/*swimming image https://cdn2.stylecraze.com/wp-content/uploads/2013/09/Does-Swimming-Aid-Weight-Loss-1.jpg
+movies image https://www.helpguide.org/articles/mental-health/laughter-is-the-best-medicine.htm
+cooking image https://qph.fs.quoracdn.net/main-qimg-3f7528c47843c336f3aceee9a40aab3c-c
