@@ -23,7 +23,7 @@ footer p {
 }
 
 .jumbotron {
-	background-image:url('https://www.jisc.ac.uk/sites/default/files/accessible_resources.jpg');
+	background-image:url('https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiF9oeWusPeAhXL2VMKHezzBL4QjRx6BAgBEAU&url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2018%2F07%2F10%2Fhow-much-money-do-you-really-need-feel-rich%2F&psig=AOvVaw3ha9FqdWKEswItU0XGsP2x&ust=1541720390727115');
 	padding: 20%;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -35,6 +35,6 @@ footer p {
 	position: absolute;
 	top:18;
 	left:0;
-	padding-left: 20px;
+	padding-center: 20px;
 	color: blue;
 }
