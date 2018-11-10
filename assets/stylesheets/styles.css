@@ -22,9 +22,28 @@ footer p {
 	vertical-align: middle;
 }
 
+h1 {text-align:center;}
+
+h2 {text-align:center;
+}
+
+h4{color:#3B184F
+
+}
+
+p {text-align:center;}
+
+ul {text-align:center;}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .jumbotron {
-	background-image:url('https://www.jisc.ac.uk/sites/default/files/accessible_resources.jpg');
-	padding: 20%;
+	background-image:url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/intermediary/f/b6279afa-844e-411a-bccf-9d56943f9b24/d5rfiyv-30e08100-e98b-4a19-bb91-c498a7b184c5.jpg/v1/fill/w_900,h_675,q_70,strp/lovely_red_by_azelforest_d5rfiyv-fullview.jpg');
+	padding: 10%;
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 100%;
@@ -32,9 +51,16 @@ footer p {
 }
 
 .jumbotron h1 {
-	position: absolute;
+	position: auto;
 	top:18;
-	left:0;
-	padding-left: 20px;
-	color: blue;
+	padding-right: 70%;
+	color: #3B184F;
+}
+
+.img-profile {
+	margin-top: auto;
+	position:absolute;
+	max-width: 10rem;
+	max-height: 10rem;
+	border: 0.5rem solid rgba(255, 255, 255, 0.2);
 }
