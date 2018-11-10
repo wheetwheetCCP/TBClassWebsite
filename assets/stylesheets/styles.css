@@ -4,6 +4,11 @@ footer {
 	height: auto;
 }
 
+.jumbotron2{
+  background-image: url('C:/Users/TCP/Desktop/HTML_Basics/TBClassWebsite/assets/Images/nurse1.jpg');
+}
+
+
 footer ul li {
 	display: inline-block;
 	list-style: none;
