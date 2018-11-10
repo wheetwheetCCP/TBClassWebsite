@@ -1,10 +1,19 @@
+
+
+
+
+
 body
 
 container {
   height: 8rem;
   margin-right: 4.5rem;
-  background-color: lighten(yellow, 25%);
+  background-color: lighten(lightblue, 25%);
   border-radius: .25rem;
+}
+
+h2 {
+	text-shadow: 2px 2px 5px red;
 }
 
 footer {
@@ -31,8 +40,9 @@ footer p {
 	vertical-align: middle;
 }
 
+
 .jumbotron {
-	background-image:url('https://www.jisc.ac.uk/sites/default/files/accessible_resources.jpg');
+background-color: cornflowerblue;
 	padding: 20%;
 	background-repeat: no-repeat;
 	background-size: cover;
