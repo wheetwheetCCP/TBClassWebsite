@@ -8,7 +8,6 @@ footer ul li {
 	display: inline-block;
 	list-style: none;
 	padding: 2%;
-	float: right;
 }
 
 footer p {
@@ -23,12 +22,13 @@ footer p {
 }
 
 .jumbotron {
-	background-image:url('https://www.jisc.ac.uk/sites/default/files/accessible_resources.jpg');
+	background-image:url('https://i.imgur.com/ZCmj6Cz.jpg');
 	padding: 20%;
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 100%;
 	margin-top: -40px;
+	max-height: 400px;
 }
 
 .jumbotron h1 {
@@ -36,5 +36,35 @@ footer p {
 	top:18;
 	left:0;
 	padding-left: 20px;
-	color: blue;
+	color: black;
+	text-shadow: 1px 1px 2px white;
+}
+.jumbotron >p {
+	color: white;
+	text-shadow: 1px 1px 2px black;
+}
+.Games {
+
+}
+.container {
+	display: grid;
+	grid-auto-columns: 1fr 1fr 1fr;
+	background-color: lightslategray;
+
+}	
+.container >div {
+	padding: 1em;
+	background-color: #fff;
+	border: 10px solid rgb(38, 41, 48);
+}
+.col1 {
+	grid-column: 1;
+	grid: 1,2;
+}
+.col2 {
+	grid-column: 2;
+	grid: 2,5;
+}
+.col3 {
+	grid-column: 3;
 }
