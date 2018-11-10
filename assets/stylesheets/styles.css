@@ -23,12 +23,12 @@ footer p {
 }
 
 .jumbotron {
-	background-image:url('https://www.jisc.ac.uk/sites/default/files/accessible_resources.jpg');
-	padding: 20%;
+	background-image: url('https://lh3.googleusercontent.com/5lZaxsWogieQf2xiLCYoMX6y341ferErObKVoH1INFGlIfyB6fg-QXwXOLNyAU46-DfRb1EWX1kkmFOaBIk8E8eeTPfK7Qq6YIzdceIY2lHKuqjHhSurspSUuB5uVbQzXZkDKnVOfArfQS6yB0EXXSDCIOQ6cYFrlH-x3ZfkauIt2cZBmeGLf-41ME7B_8fKTHw2O29uPc7OciYTp9BBxIzVFeZl1pNVqyDYukD-WxaGC2B7WGE5El5mBQRcE2CXn58Ipmo2rgu5Uh2USIy_q9VQr70IyVnWvMm98VaU7QsEkCBq2noZm1jWwtVnaeUI4e6QpMBAdkUivMVDK6pJbPbvO0i9Xhi6PXpSKhsfXTTqjt4iY7V1HJS83jmcDvoK4SPdwzgOumR5mqQCHnEY4Ul_fOk1vrm_vg64qjZ624nPzLcuNv-JmFA1-8w--y1aunOKAU8NieF85jmOtK4O70vvwDOUYZ5iM85tgxYT7cwJ1mSk1HWysVwj20raXoFrOF1obz2UBH5R3Uqu-CU5B9INwDf-lh80D6LXUj7cyiIRtunoJgHi975tCnxqnbHaoYhsud64hJAayfFATrrPuUG3i4qlQjdcMu-R6jkBX0uAcpZyW23o4p5c6pDldJ5-AQPN6tU_AjB8SZS8Gj8-j4P5pEigiqNP4X4-I7hApg5u=w1031-h616-no');
+	padding: 30%;
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 100%;
-	margin-top: -40px;
+	margin-top: auto;
 }
 
 .jumbotron h1 {
@@ -37,4 +37,7 @@ footer p {
 	left:0;
 	padding-left: 20px;
 	color: blue;
+}
+.container {
+	background-image: url('assets/images/cedarwall.jpg');
 }
